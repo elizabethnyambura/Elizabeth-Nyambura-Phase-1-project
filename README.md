@@ -16,7 +16,7 @@ The analysis was carried out in five categories as follows:
   
 * ![image 1](https://github.com/elizabethnyambura/Elizabeth-Nyambura-Phase-1-project/assets/136367890/3599e9a0-42c9-469f-b86e-caf8e7fcefc3)
   
-As per the above graph, Action adventureFantasy have the highest gross income while Action Adventure Biography have the least gross income.
+As per the above graph, Action adventureFantasy have the highest gross income while Action Adventure  have the least gross income.
 
 * 2.Relationship between Genres and Studio
   
