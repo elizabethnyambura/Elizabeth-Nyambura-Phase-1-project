@@ -10,6 +10,8 @@ The data below will be used to analyze the business problem
 #### DATA ANALYSIS
 The analysis was carried out in five categories as follows:
 * 1 relationship between genres and total gross income
+* ![image 1](https://github.com/elizabethnyambura/Elizabeth-Nyambura-Phase-1-project/assets/136367890/3599e9a0-42c9-469f-b86e-caf8e7fcefc3)
+
 * 2.Relationship between Genres and Studio
 * 3.Relationship between movie Genres and the average rating
 * 4.Relationship between the average rating and the gross income
